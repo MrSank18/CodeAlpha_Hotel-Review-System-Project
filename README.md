@@ -9,3 +9,17 @@ Future Enhancements:
     User Roles: Expand the authentication system to support different user roles, such as customers and moderators.
     Persistent Storage: Integrate with a relational database management system (RDBMS) for persistent data storage and scalability.
     User Interface: Develop a graphical user interface (GUI) for improved user experience and ease of use.
+
+Technologies Used:
+
+    Java
+    Object-oriented programming
+    Collections framework
+    GitHub version control
+
+How to Run:
+
+    Clone the repository to your local machine.
+    Compile the Java files using a Java compiler.
+    Run the HotelReviewSystem class to start the application.
+    Follow the prompts in the console to interact with the system.
